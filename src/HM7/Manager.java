@@ -1,6 +1,6 @@
 package HM7;
 
-public class Manager extends Employee {
+public class Manager {
 
     private int numberOfWorkers;
     private String name;

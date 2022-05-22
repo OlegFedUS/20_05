@@ -6,7 +6,7 @@ public class Employee {
     private char gender;
     private int age;
 
-    public Employee() {
+    public Employee(String name, char gender, int age, double salary) {
         this.name = name;
         this.gender = gender;
         this.age = age;
