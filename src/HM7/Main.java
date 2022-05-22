@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Employee emp1 = new Employee("Victor", 'm', 37, 100);
+        Employee emp1 = new Employee();
 
         Month[] months = {new Month("June", 30, 27),
                 new Month("September", 30, 19)
