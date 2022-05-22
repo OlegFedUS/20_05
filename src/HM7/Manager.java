@@ -1,5 +1,6 @@
 package HM7;
 
+
 public class Manager extends Employee {
 
     private int numberOfWorkers;
@@ -7,7 +8,6 @@ public class Manager extends Employee {
     private char gender;
     private int age;
     private double salary;
-
 
 
     public int getNumberOfWorkers() {
