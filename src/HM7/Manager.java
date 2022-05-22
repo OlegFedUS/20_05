@@ -9,7 +9,6 @@ public class Manager {
     private double salary;
 
 
-
     public int getNumberOfWorkers() {
         return numberOfWorkers;
     }
